@@ -1,0 +1,23 @@
+{
+  "name": "noj-jquery-ui-sortable",
+  "version": "1.0.0",
+  "description": "jquery-ui-sortable npm package for NOJ.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZsgsDesign/noj-jquery-ui-sortable.git"
+  },
+  "keywords": [
+    "jquery-ui",
+    "noj"
+  ],
+  "author": "ZsgsDesign",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZsgsDesign/noj-jquery-ui-sortable/issues"
+  },
+  "homepage": "https://github.com/ZsgsDesign/noj-jquery-ui-sortable#readme"
+}
